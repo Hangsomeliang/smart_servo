@@ -21,7 +21,7 @@
 #include "adc.h"
 
 /* USER CODE BEGIN 0 */
-
+uint16_t adcData[8];
 /* USER CODE END 0 */
 
 ADC_HandleTypeDef hadc;

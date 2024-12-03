@@ -35,13 +35,14 @@ extern "C" {
 extern I2C_HandleTypeDef hi2c1;
 
 /* USER CODE BEGIN Private defines */
-
+extern  uint8_t i2cDataRx[8];
+extern  uint8_t i2cDataTx[8];
 /* USER CODE END Private defines */
 
 void MX_I2C1_Init(void);
 
 /* USER CODE BEGIN Prototypes */
-
+void MY_I2C1_Init(uint32_t _id);
 /* USER CODE END Prototypes */
 
 #ifdef __cplusplus
