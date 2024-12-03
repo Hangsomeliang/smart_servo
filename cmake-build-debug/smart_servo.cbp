@@ -11,10 +11,10 @@
 				<Option working_dir="E:/1_my_stm32_demo/smart_servo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="smart_servo.elf">
@@ -43,10 +43,10 @@
 					<Add directory="e:\program files\stmicroelectronics\stm32cube\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 smart_servo.elf"/>
-					<CompileFile command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 smart_servo.elf"/>
+					<CompileFile command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="smart_servo.elf/fast">
@@ -75,30 +75,30 @@
 					<Add directory="e:\program files\stmicroelectronics\stm32cube\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 smart_servo.elf/fast"/>
-					<CompileFile command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 smart_servo.elf/fast"/>
+					<CompileFile command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="E:/1_my_stm32_demo/smart_servo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="E:/1_my_stm32_demo/smart_servo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe -f &quot;E:/1_my_stm32_demo/smart_servo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
@@ -160,6 +160,12 @@
 			<Option target="smart_servo.elf"/>
 		</Unit>
 		<Unit filename="E:/1_my_stm32_demo/smart_servo/Core/Startup/startup_stm32f042f6px.s">
+			<Option target="smart_servo.elf"/>
+		</Unit>
+		<Unit filename="E:/1_my_stm32_demo/smart_servo/Ctrl/motor.cpp">
+			<Option target="smart_servo.elf"/>
+		</Unit>
+		<Unit filename="E:/1_my_stm32_demo/smart_servo/Ctrl/motor.h">
 			<Option target="smart_servo.elf"/>
 		</Unit>
 		<Unit filename="E:/1_my_stm32_demo/smart_servo/Ctrl/random_flash_interface.h">

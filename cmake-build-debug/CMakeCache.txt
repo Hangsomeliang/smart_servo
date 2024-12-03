@@ -138,7 +138,7 @@ CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/smart_servo
 CMAKE_LINKER:FILEPATH=E:/Program Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ld.exe
 
 //make program
-CMAKE_MAKE_PROGRAM:FILEPATH=E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe
+CMAKE_MAKE_PROGRAM:FILEPATH=E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.

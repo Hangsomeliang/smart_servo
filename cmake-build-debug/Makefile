@@ -400,6 +400,30 @@ Core/Startup/startup_stm32f042f6px.s.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\smart_servo.elf.dir\build.make CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj
 .PHONY : Core/Startup/startup_stm32f042f6px.s.obj
 
+Ctrl/motor.obj: Ctrl/motor.cpp.obj
+.PHONY : Ctrl/motor.obj
+
+# target to build an object file
+Ctrl/motor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\smart_servo.elf.dir\build.make CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+.PHONY : Ctrl/motor.cpp.obj
+
+Ctrl/motor.i: Ctrl/motor.cpp.i
+.PHONY : Ctrl/motor.i
+
+# target to preprocess a source file
+Ctrl/motor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\smart_servo.elf.dir\build.make CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.i
+.PHONY : Ctrl/motor.cpp.i
+
+Ctrl/motor.s: Ctrl/motor.cpp.s
+.PHONY : Ctrl/motor.s
+
+# target to generate assembly for a file
+Ctrl/motor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\smart_servo.elf.dir\build.make CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.s
+.PHONY : Ctrl/motor.cpp.s
+
 Ctrl/random_flash_utils.obj: Ctrl/random_flash_utils.cpp.obj
 .PHONY : Ctrl/random_flash_utils.obj
 
@@ -899,6 +923,9 @@ help:
 	@echo ... Core/Src/tim.i
 	@echo ... Core/Src/tim.s
 	@echo ... Core/Startup/startup_stm32f042f6px.obj
+	@echo ... Ctrl/motor.obj
+	@echo ... Ctrl/motor.i
+	@echo ... Ctrl/motor.s
 	@echo ... Ctrl/random_flash_utils.obj
 	@echo ... Ctrl/random_flash_utils.i
 	@echo ... Ctrl/random_flash_utils.s

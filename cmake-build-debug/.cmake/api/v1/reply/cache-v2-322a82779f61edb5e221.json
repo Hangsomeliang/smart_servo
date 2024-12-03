@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/PROGRA~2/STMICR~1/STM32C~1/MinGW/bin/mingw32-make.exe"
+			"value" : "E:/Program Files/STMicroelectronics/STM32Cube/MinGW/bin/mingw32-make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",

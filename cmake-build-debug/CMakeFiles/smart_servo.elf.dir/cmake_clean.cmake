@@ -22,6 +22,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/smart_servo.elf.dir/Core/Src/tim.c.obj"
   "CMakeFiles/smart_servo.elf.dir/Core/Src/tim.c.obj.d"
   "CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj"
+  "CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj"
+  "CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj.d"
   "CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj"
   "CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj.d"
   "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj"

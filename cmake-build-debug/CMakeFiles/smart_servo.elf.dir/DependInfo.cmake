@@ -61,6 +61,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c" "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj" "gcc" "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj.d"
   "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c" "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj" "gcc" "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj.d"
   "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c" "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj" "gcc" "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj.d"
+  "E:/1_my_stm32_demo/smart_servo/Ctrl/motor.cpp" "CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj" "gcc" "CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj.d"
   "E:/1_my_stm32_demo/smart_servo/Ctrl/random_flash_utils.cpp" "CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj" "gcc" "CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj.d"
   "E:/1_my_stm32_demo/smart_servo/UserApp/main.cpp" "CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj" "gcc" "CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj.d"
   )

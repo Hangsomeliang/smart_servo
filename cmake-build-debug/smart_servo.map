@@ -4,12 +4,28 @@ e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-e
                               CMakeFiles/smart_servo.elf.dir/Core/Src/system_stm32f0xx.c.obj (__aeabi_uidiv)
 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
                               e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj (__aeabi_fcmplt)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+                              CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj (__aeabi_fadd)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+                              e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+                              e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__gesf2)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+                              e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__lesf2)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+                              CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj (__aeabi_fmul)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+                              CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj (__aeabi_fsub)
 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(unwind-arm.o)
                               CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj (__aeabi_unwind_cpp_pr0)
 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(libunwind.o)
                               e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(unwind-arm.o) (restore_core_regs)
 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(pr-support.o)
                               e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                              e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o) (__clzsi2)
 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-abort.o)
                               e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(unwind-arm.o) (abort)
 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
@@ -156,6 +172,51 @@ Discarded input sections
  .text          0x00000000       0x14 CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj
  .data          0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj
  .bss           0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj
+ .text          0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .text._ZN5Motor13CalcDceOutputEff
+                0x00000000       0xee CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.extab.text._ZN5Motor13CalcDceOutputEff
+                0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.exidx.text._ZN5Motor13CalcDceOutputEff
+                0x00000000        0x8 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .text._ZN5Motor6SetPwmEt
+                0x00000000       0x34 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.extab.text._ZN5Motor6SetPwmEt
+                0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.exidx.text._ZN5Motor6SetPwmEt
+                0x00000000        0x8 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .text._ZN5Motor14SetTorqueLimitEf
+                0x00000000       0x38 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.extab.text._ZN5Motor14SetTorqueLimitEf
+                0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.exidx.text._ZN5Motor14SetTorqueLimitEf
+                0x00000000        0x8 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .text._ZN5Motor14UpdateVelocityEv
+                0x00000000       0x14 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.extab.text._ZN5Motor14UpdateVelocityEv
+                0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.exidx.text._ZN5Motor14UpdateVelocityEv
+                0x00000000        0x8 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .text._ZN5Motor9SetEnableEb
+                0x00000000        0x6 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.extab.text._ZN5Motor9SetEnableEb
+                0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.exidx.text._ZN5Motor9SetEnableEb
+                0x00000000        0x8 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_info    0x00000000      0xe15 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_abbrev  0x00000000      0x29f CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_loc     0x00000000      0x21b CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_aranges
+                0x00000000       0x40 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_ranges  0x00000000       0x30 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_line    0x00000000      0x509 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_str     0x00000000      0xc43 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .comment       0x00000000       0x4a CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .debug_frame   0x00000000       0x90 CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
  .text          0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj
  .data          0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj
  .bss           0x00000000        0x0 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj
@@ -984,6 +1045,48 @@ Discarded input sections
  .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
  .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0x74 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000      0x33c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .debug_frame   0x00000000       0x34 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .text          0x00000000       0x4c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .debug_frame   0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .text          0x00000000       0x8c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .debug_frame   0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .text          0x00000000       0x88 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .debug_frame   0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .text          0x00000000      0x24c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .rodata        0x00000000       0x40 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .debug_frame   0x00000000       0x38 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .text          0x00000000      0x35c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .debug_frame   0x00000000       0x38 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
  .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(unwind-arm.o)
  .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(unwind-arm.o)
  .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(libunwind.o)
@@ -996,6 +1099,11 @@ Discarded input sections
                 0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(pr-support.o)
  .ARM.exidx.text.unlikely
                 0x00000000       0x10 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(pr-support.o)
+ .text          0x00000000       0x3c e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000       0x1e e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
  .text          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-abort.o)
  .data          0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-abort.o)
  .bss           0x00000000        0x0 e:/progra~2/stmicr~1/stm32c~1/gcc-ar~1.10-/gcc-ar~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-abort.o)
@@ -1179,6 +1287,7 @@ LOAD CMakeFiles/smart_servo.elf.dir/Core/Src/sysmem.c.obj
 LOAD CMakeFiles/smart_servo.elf.dir/Core/Src/system_stm32f0xx.c.obj
 LOAD CMakeFiles/smart_servo.elf.dir/Core/Src/tim.c.obj
 LOAD CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj
+LOAD CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
 LOAD CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj
 LOAD CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj
 LOAD CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj

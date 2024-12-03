@@ -235,10 +235,24 @@ CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.s: cmake_for
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling ASM source to assembly CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.s"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\1_my_stm32_demo\smart_servo\Core\Startup\startup_stm32f042f6px.s -o CMakeFiles\smart_servo.elf.dir\Core\Startup\startup_stm32f042f6px.s.s
 
+CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj: CMakeFiles/smart_servo.elf.dir/flags.make
+CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj: E:/1_my_stm32_demo/smart_servo/Ctrl/motor.cpp
+CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj"
+	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj -MF CMakeFiles\smart_servo.elf.dir\Ctrl\motor.cpp.obj.d -o CMakeFiles\smart_servo.elf.dir\Ctrl\motor.cpp.obj -c E:\1_my_stm32_demo\smart_servo\Ctrl\motor.cpp
+
+CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.i"
+	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\1_my_stm32_demo\smart_servo\Ctrl\motor.cpp > CMakeFiles\smart_servo.elf.dir\Ctrl\motor.cpp.i
+
+CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.s"
+	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\1_my_stm32_demo\smart_servo\Ctrl\motor.cpp -o CMakeFiles\smart_servo.elf.dir\Ctrl\motor.cpp.s
+
 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj: E:/1_my_stm32_demo/smart_servo/Ctrl/random_flash_utils.cpp
 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj -MF CMakeFiles\smart_servo.elf.dir\Ctrl\random_flash_utils.cpp.obj.d -o CMakeFiles\smart_servo.elf.dir\Ctrl\random_flash_utils.cpp.obj -c E:\1_my_stm32_demo\smart_servo\Ctrl\random_flash_utils.cpp
 
 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.i: cmake_force
@@ -252,7 +266,7 @@ CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.s: cmake_force
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.i: cmake_force
@@ -266,7 +280,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.i: cmake_force
@@ -280,7 +294,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_ad
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc_ex.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc_ex.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_adc_ex.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc_ex.c.i: cmake_force
@@ -294,7 +308,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_ad
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_cortex.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_cortex.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_cortex.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.i: cmake_force
@@ -308,7 +322,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_co
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_dma.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_dma.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_dma.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.i: cmake_force
@@ -322,7 +336,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dm
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_exti.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_exti.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_exti.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.i: cmake_force
@@ -336,7 +350,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_ex
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.i: cmake_force
@@ -350,7 +364,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_fl
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash_ex.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash_ex.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash_ex.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.i: cmake_force
@@ -364,7 +378,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_fl
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_gpio.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_gpio.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_gpio.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.i: cmake_force
@@ -378,7 +392,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gp
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.i: cmake_force
@@ -392,7 +406,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c_ex.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c_ex.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_i2c_ex.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.i: cmake_force
@@ -406,7 +420,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.i: cmake_force
@@ -420,7 +434,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pw
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr_ex.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr_ex.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_pwr_ex.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.i: cmake_force
@@ -434,7 +448,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pw
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.i: cmake_force
@@ -448,7 +462,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rc
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc_ex.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc_ex.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc_ex.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.i: cmake_force
@@ -462,7 +476,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rc
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.i: cmake_force
@@ -476,7 +490,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_ti
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj: E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj -MF CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim_ex.c.obj.d -o CMakeFiles\smart_servo.elf.dir\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim_ex.c.obj -c E:\1_my_stm32_demo\smart_servo\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim_ex.c
 
 CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.i: cmake_force
@@ -490,7 +504,7 @@ CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_ti
 CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj: CMakeFiles/smart_servo.elf.dir/flags.make
 CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj: E:/1_my_stm32_demo/smart_servo/UserApp/main.cpp
 CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj: CMakeFiles/smart_servo.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj"
 	E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj -MF CMakeFiles\smart_servo.elf.dir\UserApp\main.cpp.obj.d -o CMakeFiles\smart_servo.elf.dir\UserApp\main.cpp.obj -c E:\1_my_stm32_demo\smart_servo\UserApp\main.cpp
 
 CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.i: cmake_force
@@ -515,6 +529,7 @@ smart_servo_elf_OBJECTS = \
 "CMakeFiles/smart_servo.elf.dir/Core/Src/system_stm32f0xx.c.obj" \
 "CMakeFiles/smart_servo.elf.dir/Core/Src/tim.c.obj" \
 "CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj" \
+"CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj" \
 "CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj" \
 "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj" \
 "CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj" \
@@ -550,6 +565,7 @@ smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Core/Src/sysmem.c.obj
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Core/Src/system_stm32f0xx.c.obj
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Core/Src/tim.c.obj
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Core/Startup/startup_stm32f042f6px.s.obj
+smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c.obj
@@ -571,7 +587,7 @@ smart_servo.elf: CMakeFiles/smart_servo.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/UserApp/main.cpp.obj
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/build.make
 smart_servo.elf: CMakeFiles/smart_servo.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable smart_servo.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\1_my_stm32_demo\smart_servo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable smart_servo.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\smart_servo.elf.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building E:/1_my_stm32_demo/smart_servo/cmake-build-debug/smart_servo.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building E:/1_my_stm32_demo/smart_servo/cmake-build-debug/smart_servo.bin"

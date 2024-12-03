@@ -436,6 +436,99 @@ CMakeFiles/smart_servo.elf.dir/Core/Src/tim.c.obj: E:/1_my_stm32_demo/smart_serv
   E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
   E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
 
+CMakeFiles/smart_servo.elf.dir/Ctrl/motor.cpp.obj: E:/1_my_stm32_demo/smart_servo/Ctrl/motor.cpp \
+  E:/1_my_stm32_demo/smart_servo/Core/Inc/main.h \
+  E:/1_my_stm32_demo/smart_servo/Core/Inc/stm32f0xx_hal_conf.h \
+  E:/1_my_stm32_demo/smart_servo/Core/Inc/tim.h \
+  E:/1_my_stm32_demo/smart_servo/Ctrl/motor.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f042x6.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/cmsis_compiler.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/cmsis_gcc.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/cmsis_version.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/core_cm0.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_adc.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_adc_ex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_cortex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma_ex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_exti.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio_ex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc_ex.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim.h \
+  E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim_ex.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/alloca.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/cpu_defines.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/os_defines.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/concept_check.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/cpp_type_traits.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/exception_defines.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/functexcept.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/move.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/predefined_ops.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/ptr_traits.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/specfun.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_abs.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_algobase.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_iterator.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_iterator_base_funcs.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_iterator_base_types.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_pair.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/cmath \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/cstdint \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/debug/assertions.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/debug/debug.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/ext/numeric_traits.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/ext/type_traits.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/limits \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/pstl/pstl_config.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/bessel_function.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/beta_function.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/ell_integral.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/exp_integral.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/gamma.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/hypergeometric.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/legendre_function.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/modified_bessel_func.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/poly_hermite.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/poly_laguerre.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/riemann_zeta.tcc \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/special_function_util.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/type_traits \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/stdlib.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/math.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/cdefs.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/config.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/reent.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
 CMakeFiles/smart_servo.elf.dir/Ctrl/random_flash_utils.cpp.obj: E:/1_my_stm32_demo/smart_servo/Ctrl/random_flash_utils.cpp \
   E:/1_my_stm32_demo/smart_servo/Core/Inc/stm32f0xx_hal_conf.h \
   E:/1_my_stm32_demo/smart_servo/Ctrl/random_flash_utils.h \
@@ -1209,6 +1302,8 @@ E:/1_my_stm32_demo/smart_servo/Core/Src/adc.c:
 
 E:/1_my_stm32_demo/smart_servo/Core/Inc/adc.h:
 
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/limits:
+
 E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/stdlib.h:
 
 E:/1_my_stm32_demo/smart_servo/Core/Inc/main.h:
@@ -1235,6 +1330,8 @@ E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-wi
 
 E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/cmsis_compiler.h:
 
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/math.h:
+
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h:
 
 E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/cmsis_gcc.h:
@@ -1250,6 +1347,8 @@ E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/core_cm0.h:
 E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include/cmsis_version.h:
 
 E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_iterator_base_types.h:
 
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
 
@@ -1291,6 +1390,8 @@ E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2
 
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h:
 
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/special_function_util.h:
+
 E:/1_my_stm32_demo/smart_servo/Core/Src/stm32f0xx_it.c:
 
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h:
@@ -1331,6 +1432,8 @@ E:/1_my_stm32_demo/smart_servo/Core/Src/main.c:
 
 E:/1_my_stm32_demo/smart_servo/UserApp/common_inc.h:
 
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/predefined_ops.h:
+
 E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/alloca.h:
 
 E:/1_my_stm32_demo/smart_servo/Core/Inc/stm32f0xx_it.h:
@@ -1342,6 +1445,8 @@ E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-wi
 E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/endian.h:
 
 E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/concept_check.h:
 
 E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/signal.h:
 
@@ -1401,6 +1506,78 @@ E:/1_my_stm32_demo/smart_servo/Core/Src/system_stm32f0xx.c:
 
 E:/1_my_stm32_demo/smart_servo/Core/Src/tim.c:
 
+E:/1_my_stm32_demo/smart_servo/Ctrl/motor.cpp:
+
+E:/1_my_stm32_demo/smart_servo/Ctrl/motor.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/cpu_defines.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/os_defines.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/riemann_zeta.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/cpp_type_traits.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/exception_defines.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/functexcept.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/move.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/ptr_traits.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/specfun.h:
+
+E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_abs.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_algobase.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_iterator.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_iterator_base_funcs.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/stl_pair.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/cmath:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/debug/assertions.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/debug/debug.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/ext/numeric_traits.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/ext/type_traits.h:
+
+E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/pstl/pstl_config.h:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/bessel_function.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/beta_function.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/ell_integral.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/exp_integral.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/gamma.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/hypergeometric.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/legendre_function.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/modified_bessel_func.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/poly_hermite.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/tr1/poly_laguerre.tcc:
+
+E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/type_traits:
+
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c:
 
 E:/1_my_stm32_demo/smart_servo/Ctrl/random_flash_utils.cpp:
@@ -1421,17 +1598,11 @@ E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_ad
 
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c:
 
-E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c:
-
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c:
 
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c:
 
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c:
-
-E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/pstl/pstl_config.h:
-
-E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c:
 
 E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c:
 
@@ -1440,9 +1611,3 @@ E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rc
 E:/1_my_stm32_demo/smart_servo/Ctrl/random_flash_interface.h:
 
 E:/1_my_stm32_demo/smart_servo/UserApp/configurations.h:
-
-E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h:
-
-E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/cpu_defines.h:
-
-E:/Program\ Files/STMicroelectronics/STM32Cube/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/os_defines.h:
