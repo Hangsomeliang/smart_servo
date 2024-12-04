@@ -94,55 +94,112 @@ void HAL_I2C_SlaveRxCpltCallback(I2C_HandleTypeDef *hi2c)
         case 0x01: // Set angle
         {
             motor.dce.setPointPos = valF;
-            auto
+            auto* b = (unsigned char*)&(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x02: // Set velocity
         {
+            motor.dce.setPointVel = valF;
+            auto* b = (unsigned char*) &(motor.velocity);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x03: // Set torque
         {
+            motor.SetTorqueLimit(valF);
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x11: // Get angle
         {
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x12: // Get velocity
         {
+            auto* b = (unsigned char*) &(motor.velocity);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x21: // Set id
         {
+            boardConfig.nodeId =i2cDataRx[1];
+            boardConfig.configStatus = CONFIG_COMMIT;
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x22: // Set kp
         {
+            motor.dce.kp = valF;
+            boardConfig.dceKp = valF;
+            boardConfig.configStatus = CONFIG_COMMIT;
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x23: // Set ki
         {
+            motor.dce.ki = valF;
+            boardConfig.dceKi = valF;
+            boardConfig.configStatus = CONFIG_COMMIT;
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x24: // Set kv
         {
+            motor.dce.kv = valF;
+            boardConfig.dceKv = valF;
+            boardConfig.configStatus = CONFIG_COMMIT;
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x25: // Set kd
         {
+            motor.dce.kd = valF;
+            boardConfig.dceKd = valF;
+            boardConfig.configStatus = CONFIG_COMMIT;
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x26: // Set torque limit
         {
+            motor.SetTorqueLimit(valF);
+            boardConfig.toqueLimit = valF;
+            boardConfig.configStatus = CONFIG_COMMIT;
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0x27: // Set init pos
         {
+            boardConfig.initPos = valF;
+            boardConfig.configStatus = CONFIG_COMMIT;
+            auto* b = (unsigned char*) &(motor.angle);
+            for(int i=0;i<4;i++)
+                i2cDataTx[i+1] = *(b + i);
             break;
         }
         case 0xff:
         {
+            motor.SetEnable(i2cDataRx[1] != 0);
             break;
         }
         default:

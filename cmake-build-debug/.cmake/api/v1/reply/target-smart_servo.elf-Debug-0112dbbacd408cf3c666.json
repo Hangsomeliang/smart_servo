@@ -155,31 +155,31 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Core/Inc"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/CMSIS/Include"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Ctrl"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Ctrl"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/UserApp"
+					"path" : "E:/1_my_stm32_demo/smart_servo/UserApp"
 				}
 			],
 			"language" : "C",
@@ -297,31 +297,31 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Core/Inc"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/CMSIS/Include"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Ctrl"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Ctrl"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/UserApp"
+					"path" : "E:/1_my_stm32_demo/smart_servo/UserApp"
 				}
 			],
 			"language" : "ASM",
@@ -396,31 +396,31 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Core/Inc"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Device/ST/STM32F0xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Drivers/CMSIS/Include"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/Ctrl"
+					"path" : "E:/1_my_stm32_demo/smart_servo/Ctrl"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/1_my_stm32/smart_servo/UserApp"
+					"path" : "E:/1_my_stm32_demo/smart_servo/UserApp"
 				}
 			],
 			"language" : "CXX",
@@ -455,7 +455,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=D:/1_my_stm32/smart_servo/cmake-build-debug/smart_servo.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=E:/1_my_stm32_demo/smart_servo/cmake-build-debug/smart_servo.map",
 				"role" : "flags"
 			},
 			{
@@ -480,7 +480,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "D:/1_my_stm32/smart_servo/STM32F042F6PX_FLASH.ld",
+				"fragment" : "E:/1_my_stm32_demo/smart_servo/STM32F042F6PX_FLASH.ld",
 				"role" : "flags"
 			}
 		],
